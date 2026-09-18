@@ -1,0 +1,31 @@
+DESAFIO: ANÁLISE DE FEEDBACKS DE CLIENTES BANCÁRIOS COM IA
+
+PROMPT COMPLETO
+
+Quero que a IA analise feedbacks de clientes bancários sobre o aplicativo, Pix, cartão de crédito e atendimento digital para identificar reclamações frequentes, elogios, sentimentos dos clientes e oportunidades de melhoria.
+
+O resultado será usado pela equipe de experiência do cliente para apoiar melhorias nos serviços digitais, identificar problemas recorrentes e aprimorar a qualidade do atendimento.
+
+A entrega deve conter um resumo executivo, uma tabela com os principais temas identificados, exemplos de comentários, classificação dos sentimentos e recomendações práticas de melhoria.
+
+O resultado será considerado bom se for claro, organizado, baseado exclusivamente nos dados fornecidos e útil para identificar prioridades e propor ações.
+
+Contexto: Estou trabalhando com feedbacks de clientes bancários relacionados ao aplicativo, às transferências via Pix, ao cartão de crédito e aos canais de atendimento digital.
+
+Dados disponíveis: A base contém a data do comentário, o canal de atendimento, o texto do feedback, o produto mencionado e a nota de satisfação do cliente, variando de 1 a 5.
+
+Critérios de análise: Classifique os feedbacks por tema, sentimento (positivo, negativo ou neutro), urgência e possível impacto na experiência do cliente.
+
+Cuidados e restrições:
+- Utilize apenas os dados fornecidos.
+- Não invente números, causas ou conclusões.
+- Não exponha dados pessoais ou sensíveis.
+- Caso faltem informações, indique a limitação.
+- Diferencie problemas recorrentes de casos isolados.
+- Utilize linguagem simples, direta e voltada para a tomada de decisão.
+- Apresente recomendações práticas somente quando forem sustentadas pelos dados.
+
+
+OBSERVAÇÃO
+
+Este documento apresenta a proposta de análise e o prompt. Os resultados quantitativos e os insights finais devem ser preenchidos após a análise de uma base de feedbacks.
